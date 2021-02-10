@@ -2,7 +2,7 @@ link to finished codepen https://github.com/annegolladay/Git-for-Web-Development
     My Codepen link: https://codepen.io/annegolladay/pen/ExNgKpx
 
     1. What is Semantic HTML? 
-        HTML that gives meaning or context to our code. We use it for accessibility purposes.
+        HTML that gives meaning or context to our code. We use it for accessibility purposes!
     2. What is HTML used for? 
         It's used for the structure of our websites.
     3. What is an attribute and where do we put it? 
